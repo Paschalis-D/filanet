@@ -1,0 +1,26 @@
+{
+  "source": "runs/filanet7/best.pt",
+  "epoch": 2,
+  "files": [
+    {
+      "name": "filanet7.part0.pt",
+      "sha256": "358275cc6a06ab77193401d45015ce3f91b7e59e09715cb58b9ad4de276fa9ac",
+      "tensors": 84
+    },
+    {
+      "name": "filanet7.part1.pt",
+      "sha256": "3eef6f50d1caf24b0faed8dc56ca5bd8516c978472efe43a111dc9de90426fd4",
+      "tensors": 30
+    },
+    {
+      "name": "filanet7.part2.pt",
+      "sha256": "12b7b8f76cdf52f1c117f2121e7e1cf8045a47b899fd7dd1ccddfbf996b5a2fb",
+      "tensors": 18
+    },
+    {
+      "name": "filanet7.part3.pt",
+      "sha256": "f29c5a97bbe1825bb0339321c28148d923d0ecba888eb37441bf8e34595741e6",
+      "tensors": 54
+    }
+  ]
+}
